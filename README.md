@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=900&lines=I+build+software+that+solves+real+problems.;AI+tools%2C+automation%2C+and+full-stack+apps.;Persistence+beats+perfection."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=I%20build%20intelligent%20software%2C%20automation%20tools%2C%20and%20full-stack%20applications.;Building%20practical%20software%20through%20AI%2C%20automation%2C%20and%20full-stack%20development."/>
 </p>
 
 <p align="center">
@@ -15,11 +15,7 @@
 
 <h2 align="center">About Me</h2>
 
-Building is my favourite way of learning.
-
-I like solving real problems by mixing technology with business sense — staying curious enough to keep exploring, and stubborn enough to actually finish what I start. Most of what I build lands somewhere between AI tooling, automation, and full-stack development: things that make everyday tasks a little smarter and a lot less manual.
-
-Persistence beats perfection. Ideas are easy — building them is the part that counts.
+Building is my favourite way of learning. I enjoy solving real-world challenges by combining technology with business. Curious by nature and persistent by choice, I'm always exploring new ideas and building AI-powered tools, automation workflows, and full-stack applications that make everyday tasks smarter and simpler. I believe persistence beats perfection, and innovation isn't just about having ideas-it's about bringing them to life!
 
 ---
 
@@ -27,23 +23,13 @@ Persistence beats perfection. Ideas are easy — building them is the part that 
 
 | | |
 |---|---|
-| **Working On** | Adding collaboration features to a real-time chat platform, and improving a stock market app with live data, analytics, and learning tools |
-| **Learning** | Scalable system design · Cloud architecture · Production-ready AI applications · Advanced automation workflows · Modern deployment practices |
-| **Collaborating On** | Full-stack applications · AI & automation tools · Developer tools |
-| **Could Use Help With** | Cloud-native architecture · Distributed systems · Production deployments |
-| **Ask Me About** | React · JavaScript · Python · REST APIs · DSA · Automation · Problem solving |
-| **Fun Fact** | My first Playwright automation project took a week, fighting Cloudflare the whole way. A year later, I finished a similar scraping project in about four hours |
-
----
-
-<h2 align="center">Featured Projects</h2>
-
-> Repo cards will go here once everything's polished and pinned.
-
-- **Corporate Intelligence Automation** — Playwright-based browser automation, with Cloudflare handling built in
-- **Real-Time Chat Platform** — Full-stack messaging app powered by Socket.IO
-- **Stock Market Learning Platform** — Live market data paired with educational tools
-- **Fashion Recommendation System** — ML-powered personalized recommendations
+| **Working On** | Enhancing a real-time chat platform with new collaboration features and improving a stock market application with live data, analytics, and learning tools. |
+| **Learning** | Scalable System Design, Cloud Architecture, Production-Ready AI Applications, Advanced Automation Workflows, and Modern Deployment Practices |
+| **Collaborating On** | Full-Stack applications, AI & Automation tools, Developer tools. |
+| **Looking for Help With** | Cloud architecture, scalable system design, and production-ready deployments. |
+| **Ask Me About** | React, JavaScript, REST APIs, Python, DSA, Automation & Problem Solving |
+| **Pronouns** | She/Her |
+| **Fun Fact** | My first web automation project took me a week-I learned Playwright, Selenium, and even tackled Cloudflare along the way. A year later, I completed a similar scraping project in just 4 hours. |
 
 ---
 
@@ -61,7 +47,7 @@ Persistence beats perfection. Ideas are easy — building them is the part that 
 **AI & Machine Learning**
 <p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></p>
 
-Pandas · NumPy · Scikit-learn
+Pandas · NumPy
 
 **Databases**
 <p><img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,mysql"/></p>
@@ -77,28 +63,28 @@ Pandas · NumPy · Scikit-learn
 <h2 align="center">Connect With Me</h2>
 
 <p align="center">
-<a href="https://www.linkedin.com/in/manyata-kothari-b7a944313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
-<a href="https://manyatakothari8.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
-<a href="mailto:manyatakothari17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
+<a href="https://www.linkedin.com/in/manyata-kothari-b7a944313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+<a href="https://manyatakothari8.netlify.app"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white"/></a>
+<a href="mailto:manyatakothari17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white"/></a>
 </p>
 
 ---
 
-<h2 align="center">GitHub Statistics</h2>
+<h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-<img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ManyataKothari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-<img width="41%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ManyataKothari&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ManyataKothari&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true"/>
+<img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ManyataKothari&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8"/>
 </p>
 
 ---
 
-<h2 align="center">Contribution Activity</h2>
+<h2 align="center">Contribution Graph</h2>
 
 <p align="center">
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManyataKothari&theme=github-compact&hide_border=true&area=true"/>
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManyataKothari&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true"/>
 </p>
 
 ---
 
-<p align="center"><i>Persistence attracts perfection. Keep building.</i></p>
+<p align="center"><i>⭐ From <a href="https://github.com/ManyataKothari">ManyataKothari</a></i></p>
