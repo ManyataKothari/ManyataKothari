@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=900&lines=I+build+intelligent+software,+automation+tools,+and+full-stack+applications.;Turning+ideas+into+practical+software+through+AI,+automation,+and+engineering."/>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&pause=1200&color=2EA043&center=true&vCenter=true&width=900&lines=I+build+Intelligent+Software,+Automation+Tools,+and+Full-Stack+Applications.;Turning+ideas+into+practical+software+through+AI,+automation,+and+engineering."/>
 </p>
 
 <p align="center">
