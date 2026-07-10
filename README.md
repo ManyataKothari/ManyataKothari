@@ -132,10 +132,6 @@ Pandas · NumPy
 <h2 align="center">GitHub Stats</h2>
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=ManyataKothari&theme=tokyonight&no-frame=true&column=-1&title=Stars&margin-w=0&margin-h=0"/>
-</p>
-
-<p align="center">
 <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ManyataKothari&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true"/>
 <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ManyataKothari&layout=compact&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&langs_count=8"/>
 </p>
