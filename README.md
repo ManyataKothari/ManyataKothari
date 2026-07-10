@@ -1,11 +1,11 @@
 <p align="center">
   <a href="https://github.com/ManyataKothari">
-    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=1200&text=Hello!%20I'm%20Manyata%20Kothari%20-%20Building%20intelligent%20software%20for%20real-world%20challenges." alt="Hello! I&#39;m Manyata Kothari - Building intelligent software for real-world challenges." />
+    <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=54&height=90&width=922&text=Hello!%20I'm%20Manyata%20Kothari" alt="Hello! I&#39;m Manyata Kothari" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=900&height=44&lines=I%20build%20intelligent%20software%2C%20automation%20tools%2C%20and%20full-stack%20applications.;Building%20practical%20software%20through%20AI%2C%20automation%2C%20and%20full-stack%20development." alt="Typing headlines" />
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=I%20build%20intelligent%20software%2C%20automation%20tools%2C%20and%20full-stack%20applications.;Building%20practical%20software%20through%20AI%2C%20automation%2C%20and%20full-stack%20development." alt="Typing headlines" />
 </p>
 
 ### 🚀 About Me
