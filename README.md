@@ -8,7 +8,6 @@
 
 <p align="center">
 <a href="https://github.com/ManyataKothari?tab=followers"><img src="https://img.shields.io/github/followers/ManyataKothari?style=for-the-badge&color=2ea043"/></a>
-<a href="https://github.com/ManyataKothari"><img src="https://komarev.com/ghpvc/?username=ManyataKothari&style=for-the-badge&color=2ea043"/></a>
 </p>
 
 ---
@@ -131,6 +130,10 @@ Pandas · NumPy
 ---
 
 <h2 align="center">GitHub Stats</h2>
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=ManyataKothari&theme=tokyonight&no-frame=true&column=-1&title=Stars&margin-w=0&margin-h=0"/>
+</p>
 
 <p align="center">
 <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ManyataKothari&show_icons=true&theme=tokyonight&title_color=2ea043&icon_color=2ea043&hide_border=true&bg_color=00000000&count_private=true"/>
