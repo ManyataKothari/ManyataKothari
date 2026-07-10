@@ -1,9 +1,9 @@
 <p align="center">
-  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=52&height=90&text=Hello!%20I'm%20Manyata%20Kothari"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:1a1a2e&height=180&section=header&text=Hello!%20I'm%20Manyata%20Kothari&fontSize=42&fontColor=2ea043&animation=fadeIn&fontAlignY=38"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=I%20build%20intelligent%20software%2C%20automation%20tools%2C%20and%20full-stack%20applications.;Building%20practical%20software%20through%20AI%2C%20automation%2C%20and%20full-stack%20development."/>
+  <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=ff9bce&center=true&vCenter=true&width=900&height=44&lines=Building%20practical%20software%20through%20AI%2C%20automation%2C%20and%20full-stack%20development.;Persistence%20beats%20perfection%20-%20turning%20ideas%20into%20things%20that%20actually%20work."/>
 </p>
 
 <p align="center">
@@ -33,30 +33,90 @@ Building is my favourite way of learning. I enjoy solving real-world challenges 
 
 ---
 
+<h2 align="center">Featured Projects</h2>
+
+<p align="center">
+<a href="https://github.com/ManyataKothari/CorpIntel-Corporate-Intelligence-Automation"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=ManyataKothari&repo=CorpIntel-Corporate-Intelligence-Automation&theme=tokyonight&hide_border=true&bg_color=00000000"/></a>
+<a href="https://github.com/ManyataKothari/LinkedIn-Content-Intelligence-Agent-"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=ManyataKothari&repo=LinkedIn-Content-Intelligence-Agent-&theme=tokyonight&hide_border=true&bg_color=00000000"/></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ManyataKothari/Proctor-AI"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=ManyataKothari&repo=Proctor-AI&theme=tokyonight&hide_border=true&bg_color=00000000"/></a>
+<a href="https://github.com/ManyataKothari/FashionRecommendationSystem"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=ManyataKothari&repo=FashionRecommendationSystem&theme=tokyonight&hide_border=true&bg_color=00000000"/></a>
+</p>
+
+<p align="center">
+<a href="https://github.com/ManyataKothari/Full-Stack-Internship"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=ManyataKothari&repo=Full-Stack-Internship&theme=tokyonight&hide_border=true&bg_color=00000000"/></a>
+<a href="https://github.com/ManyataKothari/Data_Structures_Systems_Design-"><img src="https://github-readme-stats-five-sigma-99.vercel.app/api/pin/?username=ManyataKothari&repo=Data_Structures_Systems_Design-&theme=tokyonight&hide_border=true&bg_color=00000000"/></a>
+</p>
+
+---
+
 <h2 align="center">Technology Stack</h2>
 
 **Languages**
-<p><img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mysql"/></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python" width="48" title="Python"/>
+<img src="https://skillicons.dev/icons?i=java" width="48" title="Java"/>
+<img src="https://skillicons.dev/icons?i=js" width="48" title="JavaScript"/>
+<img src="https://skillicons.dev/icons?i=ts" width="48" title="TypeScript"/>
+<img src="https://skillicons.dev/icons?i=html" width="48" title="HTML5"/>
+<img src="https://skillicons.dev/icons?i=css" width="48" title="CSS3"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="48" title="SQL"/>
+</p>
 
 **Frontend**
-<p><img src="https://skillicons.dev/icons?i=react,angular,tailwind,vite"/></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=react" width="48" title="React"/>
+<img src="https://skillicons.dev/icons?i=angular" width="48" title="Angular"/>
+<img src="https://skillicons.dev/icons?i=tailwind" width="48" title="Tailwind CSS"/>
+<img src="https://skillicons.dev/icons?i=vite" width="48" title="Vite"/>
+</p>
 
 **Backend**
-<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,fastapi"/></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=nodejs" width="48" title="Node.js"/>
+<img src="https://skillicons.dev/icons?i=express" width="48" title="Express"/>
+<img src="https://skillicons.dev/icons?i=flask" width="48" title="Flask"/>
+<img src="https://skillicons.dev/icons?i=spring" width="48" title="Spring"/>
+<img src="https://skillicons.dev/icons?i=fastapi" width="48" title="FastAPI"/>
+</p>
 
 **AI & Machine Learning**
-<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" title="TensorFlow"/>
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" title="PyTorch"/>
+</p>
 
 Pandas · NumPy
 
 **Databases**
-<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,mysql"/></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=mongodb" width="48" title="MongoDB"/>
+<img src="https://skillicons.dev/icons?i=postgres" width="48" title="PostgreSQL"/>
+<img src="https://skillicons.dev/icons?i=firebase" width="48" title="Firebase"/>
+<img src="https://skillicons.dev/icons?i=mysql" width="48" title="MySQL"/>
+</p>
 
 **Cloud & DevOps**
-<p><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,git,cloudflare"/></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=aws" width="48" title="AWS"/>
+<img src="https://skillicons.dev/icons?i=gcp" width="48" title="Google Cloud"/>
+<img src="https://skillicons.dev/icons?i=azure" width="48" title="Azure"/>
+<img src="https://skillicons.dev/icons?i=docker" width="48" title="Docker"/>
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" title="Kubernetes"/>
+<img src="https://skillicons.dev/icons?i=jenkins" width="48" title="Jenkins"/>
+<img src="https://skillicons.dev/icons?i=githubactions" width="48" title="GitHub Actions"/>
+<img src="https://skillicons.dev/icons?i=git" width="48" title="Git"/>
+<img src="https://skillicons.dev/icons?i=cloudflare" width="48" title="Cloudflare"/>
+</p>
 
 **Tools**
-<p><img src="https://skillicons.dev/icons?i=vscode,postman,linux"/></p>
+<p align="center">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" title="VS Code"/>
+<img src="https://skillicons.dev/icons?i=postman" width="48" title="Postman"/>
+<img src="https://skillicons.dev/icons?i=linux" width="48" title="Linux"/>
+</p>
 
 ---
 
@@ -84,6 +144,20 @@ Pandas · NumPy
 <p align="center">
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManyataKothari&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true"/>
 </p>
+
+<!--
+Once the snake/Pac-Man GitHub Action workflow (see setup guide from earlier) has run at least
+once and created the "output" branch in your ManyataKothari/ManyataKothari repo, uncomment
+this block to display the animation:
+
+<p align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManyataKothari/ManyataKothari/output/dist/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManyataKothari/ManyataKothari/output/dist/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ManyataKothari/ManyataKothari/output/dist/snake.svg" />
+</picture>
+</p>
+-->
 
 ---
 
