@@ -144,19 +144,13 @@ Pandas · NumPy
 <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManyataKothari&bg_color=00000000&color=2ea043&line=2ea043&point=c9d1d9&area=true&hide_border=true"/>
 </p>
 
-<!--
-Once the snake/Pac-Man GitHub Action workflow (see setup guide from earlier) has run at least
-once and created the "output" branch in your ManyataKothari/ManyataKothari repo, uncomment
-this block to display the animation:
-
 <p align="center">
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManyataKothari/ManyataKothari/output/dist/snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManyataKothari/ManyataKothari/output/dist/snake.svg" />
-  <img alt="snake animation" src="https://raw.githubusercontent.com/ManyataKothari/ManyataKothari/output/dist/snake.svg" />
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/ManyataKothari/ManyataKothari/output/snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/ManyataKothari/ManyataKothari/output/snake.svg" />
+  <img alt="snake animation" src="https://raw.githubusercontent.com/ManyataKothari/ManyataKothari/output/snake.svg" />
 </picture>
 </p>
--->
 
 ---
 
