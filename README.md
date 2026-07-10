@@ -1,122 +1,104 @@
 <p align="center">
-  <a href="https://github.com/ManyataKothari">
-    <img src="https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&fontColor=ff9bce&fontSize=42&height=160&width=1000&text=Hi,%20I'm%20Manyata&fontAlignY=40&desc=Software%20Developer%20%7C%20Full-Stack%20%26%20AI%20Tooling&descAlignY=62&descSize=18" alt="Header banner" />
-  </a>
+  <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=2ea043&fontSize=52&height=90&text=Hello!%20I'm%20Manyata%20Kothari"/>
 </p>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=22&pause=1500&color=FF9BCE&center=true&vCenter=true&width=700&height=40&lines=I+build+software+that+solves+real+problems.;AI+tools%2C+automation%2C+full-stack+apps.;Persistence+beats+perfection." alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=22&pause=1200&color=2EA043&center=true&vCenter=true&width=900&lines=I+build+software+that+solves+real+problems.;AI+tools%2C+automation%2C+and+full-stack+apps.;Persistence+beats+perfection."/>
 </p>
 
-<br>
+<p align="center">
+<a href="https://github.com/ManyataKothari?tab=followers"><img src="https://img.shields.io/github/followers/ManyataKothari?style=for-the-badge&color=2ea043"/></a>
+<a href="https://github.com/ManyataKothari"><img src="https://komarev.com/ghpvc/?username=ManyataKothari&style=for-the-badge&color=2ea043"/></a>
+</p>
 
-## About Me
+---
 
-I like building things more than I like talking about building things. Most of what I do sits somewhere between AI, automation, and full-stack development — turning ideas into tools that actually get used.
+<h2 align="center">About Me</h2>
 
-Right now I'm splitting my time between two projects: adding collaboration features to a real-time chat platform, and improving a stock market app with live data, analytics, and a few learning tools baked in.
+Building is my favourite way of learning.
 
-I'm also spending a good chunk of time on system design, cloud architecture, and figuring out what it actually takes to ship something production-ready instead of just "working on my machine."
+I like solving real problems by mixing technology with business sense — staying curious enough to keep exploring, and stubborn enough to actually finish what I start. Most of what I build lands somewhere between AI tooling, automation, and full-stack development: things that make everyday tasks a little smarter and a lot less manual.
 
-**Currently learning:** Scalable system design, cloud architecture, and modern deployment practices
-**Open to collaborating on:** Full-stack apps, AI & automation tools, developer tooling
-**Could use a hand with:** Cloud architecture and production deployments
-**Happy to talk about:** React, JavaScript, Python, REST APIs, DSA, and automation
-**Pronouns:** she/her
+Persistence beats perfection. Ideas are easy — building them is the part that counts.
 
-A small story, if you're curious: my first web-scraping project took a full week — learning Playwright, Selenium, and fighting Cloudflare the whole way. A year later, I finished a similar project in about four hours. That gap is basically the whole point of practicing.
+---
 
-<br>
+<h2 align="center">Current Focus</h2>
 
-## Tech Stack
+| | |
+|---|---|
+| **Working On** | Adding collaboration features to a real-time chat platform, and improving a stock market app with live data, analytics, and learning tools |
+| **Learning** | Scalable system design · Cloud architecture · Production-ready AI applications · Advanced automation workflows · Modern deployment practices |
+| **Collaborating On** | Full-stack applications · AI & automation tools · Developer tools |
+| **Could Use Help With** | Cloud-native architecture · Distributed systems · Production deployments |
+| **Ask Me About** | React · JavaScript · Python · REST APIs · DSA · Automation · Problem solving |
+| **Fun Fact** | My first Playwright automation project took a week, fighting Cloudflare the whole way. A year later, I finished a similar scraping project in about four hours |
+
+---
+
+<h2 align="center">Featured Projects</h2>
+
+> Repo cards will go here once everything's polished and pinned.
+
+- **Corporate Intelligence Automation** — Playwright-based browser automation, with Cloudflare handling built in
+- **Real-Time Chat Platform** — Full-stack messaging app powered by Socket.IO
+- **Stock Market Learning Platform** — Live market data paired with educational tools
+- **Fashion Recommendation System** — ML-powered personalized recommendations
+
+---
+
+<h2 align="center">Technology Stack</h2>
 
 **Languages**
-<p align="left">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white" alt="Python" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=flat-square&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="SQL" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" alt="HTML5" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,mysql"/></p>
 
-**Frameworks & Libraries**
-<p align="left">
-  <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Angular-DD0031?style=flat-square&logo=angular&logoColor=white" alt="Angular" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express-000000?style=flat-square&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Spring-6DB33F?style=flat-square&logo=spring&logoColor=white" alt="Spring" />
-  <img src="https://img.shields.io/badge/React%20Native-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React Native" />
-  <img src="https://img.shields.io/badge/Tailwind%20CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white" alt="Tailwind CSS" />
-  <img src="https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white" alt="Vite" />
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=flat-square&logo=graphql&logoColor=white" alt="GraphQL" />
-</p>
+**Frontend**
+<p><img src="https://skillicons.dev/icons?i=react,angular,tailwind,vite"/></p>
 
-**Data & AI**
-<p align="left">
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" alt="TensorFlow" />
-  <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" alt="PyTorch" />
-  <img src="https://img.shields.io/badge/pandas-150458?style=flat-square&logo=pandas&logoColor=white" alt="pandas" />
-  <img src="https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white" alt="NumPy" />
-</p>
+**Backend**
+<p><img src="https://skillicons.dev/icons?i=nodejs,express,flask,spring,fastapi"/></p>
+
+**AI & Machine Learning**
+<p><img src="https://skillicons.dev/icons?i=tensorflow,pytorch"/></p>
+
+Pandas · NumPy · Scikit-learn
 
 **Databases**
-<p align="left">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" />
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" alt="MySQL" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=black" alt="Firebase" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=mongodb,postgres,firebase,mysql"/></p>
 
 **Cloud & DevOps**
-<p align="left">
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=white" alt="AWS" />
-  <img src="https://img.shields.io/badge/Google%20Cloud-4285F4?style=flat-square&logo=googlecloud&logoColor=white" alt="Google Cloud" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=flat-square&logo=microsoftazure&logoColor=white" alt="Azure" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" alt="Kubernetes" />
-  <img src="https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white" alt="Jenkins" />
-  <img src="https://img.shields.io/badge/GitHub%20Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=flat-square&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Netlify-00C7B7?style=flat-square&logo=netlify&logoColor=white" alt="Netlify" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=flat-square&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=aws,gcp,azure,docker,kubernetes,jenkins,githubactions,git,cloudflare"/></p>
 
 **Tools**
-<p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white" alt="Git" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white" alt="GitHub" />
-  <img src="https://img.shields.io/badge/VS%20Code-007ACC?style=flat-square&logo=vscodium&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black" alt="Linux" />
-</p>
+<p><img src="https://skillicons.dev/icons?i=vscode,postman,linux"/></p>
 
-<br>
+---
 
-## Connect With Me
-
-<p align="left">
-  <a href="https://www.linkedin.com/in/manyata-kothari-b7a944313/" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="https://manyatakothari8.netlify.app" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Portfolio-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="mailto:manyatakothari17@gmail.com" target="_blank" rel="noopener noreferrer"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
-</p>
-
-<br>
-
-## GitHub Stats
+<h2 align="center">Connect With Me</h2>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ManyataKothari&show_icons=true&theme=tokyonight&title_color=ff9bce&icon_color=ff9bce&hide_border=true&bg_color=00000000&count_private=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ManyataKothari&layout=compact&theme=tokyonight&title_color=ff9bce&icon_color=ff9bce&hide_border=true&bg_color=00000000&langs_count=8" alt="Top languages" />
+<a href="https://www.linkedin.com/in/manyata-kothari-b7a944313/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin"/></a>
+<a href="https://manyatakothari8.netlify.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel"/></a>
+<a href="mailto:manyatakothari17@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail"/></a>
 </p>
+
+---
+
+<h2 align="center">GitHub Statistics</h2>
 
 <p align="center">
-  <img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManyataKothari&bg_color=00000000&color=ff9bce&line=ff9bce&point=c9d1d9&area=true&hide_border=true" alt="Contribution activity graph" />
+<img width="49%" src="https://github-readme-stats-five-sigma-99.vercel.app/api?username=ManyataKothari&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
+<img width="41%" src="https://github-readme-stats-five-sigma-99.vercel.app/api/top-langs/?username=ManyataKothari&layout=compact&theme=tokyonight&hide_border=true"/>
 </p>
 
-<br>
+---
 
-<p align="center"><sub>Thanks for stopping by — feel free to reach out if any of this overlaps with what you're building.</sub></p>
+<h2 align="center">Contribution Activity</h2>
+
+<p align="center">
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ManyataKothari&theme=github-compact&hide_border=true&area=true"/>
+</p>
+
+---
+
+<p align="center"><i>Persistence attracts perfection. Keep building.</i></p>
