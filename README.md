@@ -21,7 +21,7 @@ Building is my favourite way of learning. I enjoy solving real-world challenges 
 
   **WallS — AI-Powered Market Intelligence Platform**
 
-  [Live Demo](https://wall-s.vercel.app/) · [💻 Source Code](https://github.com/ManyataKothari/WallS-For-Viewing)
+  [Live Demo](https://wall-s.vercel.app/) · [Source Code](https://github.com/ManyataKothari/WallS-For-Viewing)
 <h2 align="center">Current Focus</h2>
 
 
