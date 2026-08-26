@@ -17,8 +17,13 @@
 Building is my favourite way of learning. I enjoy solving real-world challenges by combining technology with business. Curious by nature and persistent by choice, I'm always exploring new ideas and building AI-powered tools, automation workflows, and full-stack applications that make everyday tasks smarter and simpler. I believe persistence beats perfection, and innovation isn't just about having ideas-it's about bringing them to life!
 
 ---
+ ### Featured Project
 
+  **WallS — AI-Powered Market Intelligence Platform**
+
+  [Live Demo](https://wall-s.vercel.app/) · [💻 Source Code](https://github.com/ManyataKothari/WallS-For-Viewing)
 <h2 align="center">Current Focus</h2>
+
 
 | | |
 |---|---|
